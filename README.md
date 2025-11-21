@@ -1,0 +1,2 @@
+# tradingview
+for embeded plot
